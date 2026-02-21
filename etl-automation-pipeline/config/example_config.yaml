@@ -1,0 +1,5 @@
+source:
+  path: retail-sales-analysis/data/sample_retail_sales.csv
+
+destination:
+  path: etl-automation-pipeline/output/processed_retail_sales.csv
